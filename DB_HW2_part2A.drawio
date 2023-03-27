@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T09:30:36.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Cc2_op_SGvovSBPtQS6X" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T09:33:27.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="L1vUEGmfHhafHgvXwkKQ" version="21.0.6" type="github">
   <diagram name="第 1 页" id="ZCkIsrMRTTcG62m4PJNj">
     <mxGraphModel dx="1050" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,11 +19,29 @@
         <mxCell id="FVLRuDK2gW15zGd4SESQ-3" value="Teach" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="250" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="FVLRuDK2gW15zGd4SESQ-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FVLRuDK2gW15zGd4SESQ-6" target="FVLRuDK2gW15zGd4SESQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FVLRuDK2gW15zGd4SESQ-6" value="&lt;u&gt;CRN&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="50" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FVLRuDK2gW15zGd4SESQ-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FVLRuDK2gW15zGd4SESQ-7" target="FVLRuDK2gW15zGd4SESQ-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FVLRuDK2gW15zGd4SESQ-7" value="Title" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FVLRuDK2gW15zGd4SESQ-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FVLRuDK2gW15zGd4SESQ-11" target="FVLRuDK2gW15zGd4SESQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVLRuDK2gW15zGd4SESQ-11" value="Name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FVLRuDK2gW15zGd4SESQ-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FVLRuDK2gW15zGd4SESQ-12" target="FVLRuDK2gW15zGd4SESQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVLRuDK2gW15zGd4SESQ-12" value="&lt;u&gt;Teacher ID&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="140" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
